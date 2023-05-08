@@ -21,4 +21,8 @@ const OptionsToRend = ({ options, onLeaveFeedback }) => {
   );
 };
 
+OptionsToRend.propTypes = {
+  options: PropTypes.array,
+};
+
 export { OptionsToRend };
