@@ -21,8 +21,4 @@ const OptionsToRend = ({ options, onLeaveFeedback }) => {
   );
 };
 
-// OptionsToRend.PropTypes = {
-//   onClick: PropTypes.func.isRequired,
-// };
-
 export { OptionsToRend };
